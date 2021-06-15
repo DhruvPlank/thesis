@@ -36,14 +36,4 @@ find
     --> compare the results with Nvidia Paper
 
     2. Steering and Accel<->Brake  
-
-
-
-
-
-
-## To-Do ::
-
-- working on paper 2 <code>
-
-- 
+ 
